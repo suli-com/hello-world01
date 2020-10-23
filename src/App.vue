@@ -12,7 +12,7 @@ export default {
   name: 'App',
   components: {
     HelloWorld
-  }
+  }0
 }
 </script>
 
