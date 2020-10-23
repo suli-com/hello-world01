@@ -5,6 +5,7 @@
     <h2>G2加油！six six six </h2>
     <h2>天降正义！ </h2>
     <h2>狡诈恶徒，正义必胜！ </h2>
+    <h2>我将带头冲锋！ </h2>
   </div>
 </template>
 <script>
